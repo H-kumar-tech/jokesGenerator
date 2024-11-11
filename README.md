@@ -19,4 +19,9 @@
  <li>JavaScript: For fetching jokes and handling user interactions.</li>
 </ul>
 
+<h2>Try the website<h2>
+
+[Link to demo](https://h-kumar-tech.github.io/jokesGenerator/)
+
+
 ![Website image](img/Screenshot%202024-11-11%20144113.png)
