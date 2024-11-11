@@ -18,3 +18,5 @@
  <li>CSS: For styling and animations.</li>
  <li>JavaScript: For fetching jokes and handling user interactions.</li>
 </ul>
+
+![Website image](img/Screenshot%202024-11-11%20144113.png)
