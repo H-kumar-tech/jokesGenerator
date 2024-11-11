@@ -10,3 +10,11 @@
  <li>Simple UI: Clean and user-friendly interface.</li>
  <li>Responsive Design: Optimized for both desktop and mobile viewing.</li>
 </ul>
+
+<h2>Technologies Used</h2>
+
+<ul>
+ <li>HTML: For the structure of the website.</li>
+ <li>CSS: For styling and animations.</li>
+ <li>JavaScript: For fetching jokes and handling user interactions.</li>
+</ul>
